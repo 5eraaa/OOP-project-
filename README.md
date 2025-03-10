@@ -31,6 +31,6 @@ A C++ Compiler (GCC, Clang, or MSVC)
 
 👤 Author
 
-Mostafa Ahmed Khera
+Mostafa Ahmed Khaira
 
 
